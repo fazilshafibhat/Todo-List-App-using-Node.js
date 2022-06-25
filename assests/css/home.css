@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    background-image: url("image1.jpg");
+}
+
+.container{
+    background-color: white;
+    position: relative;
+    width: 100%;
+    padding: 2%;
+}
+.lists-container{
+    position: relative;
+    margin-top: 5%;
+    width: 100%;
+}
+#button-container button{
+    margin-left: 20%;
+}
+#category{
+    background-color: rgb(127, 21, 148);
+    color: whitesmoke;
+    border-radius: .3rem;
+    position: relative;
+    top: 30%;
+    left: 30%;
+    width: 70%;
+    height: 50%;
+    text-align: center;
+}
+#category h5{
+    position: relative;
+    top: 30%;
+}
+.form-check{
+    position: relative;
+    width: 100%;
+    height: 100%;    
+}
+.form-check input{
+    position: relative;
+    left: 60%;
+    top: 40%;
+}
+/* 
